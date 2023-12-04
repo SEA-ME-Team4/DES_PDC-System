@@ -1,0 +1,6 @@
+[submodule "meta-des"]
+	path = meta-des
+	url = https://github.com/SEA-ME-Team4/meta-des.git
+[submodule "app-des"]
+	path = app-des
+	url = https://github.com/SEA-ME-Team4/app-des.git
